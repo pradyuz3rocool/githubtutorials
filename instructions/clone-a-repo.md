@@ -4,3 +4,5 @@
 2. Click Clone in Desktop
 3. Navigate to the desired location
 4. Click Clone
+5. Adds new Line
+
